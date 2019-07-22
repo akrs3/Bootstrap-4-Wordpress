@@ -1,0 +1,4 @@
+/layout/node_modules/
+/layout/package.json
+/layout/package-lock.json
+.DS_Store
