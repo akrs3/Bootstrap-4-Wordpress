@@ -1,21 +1,10 @@
-#Atualizar o gulp global
+## Links uteis:
 
-- npm install --global gulp-cli
-- gulp --version
+- Bootstrap
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
-#Desinstalar o gulp 3 na pasta do projeto
+- Pexels
+https://www.pexels.com/
 
-- cd <caminhodapasta>/layout
-- npm uninstall gulp --save-dev
-
-#Instalar o gulp 4 na pasta do projeto
-
-- npm install --save-dev gulp@next
-
-ou 
-
-- npm install gulp-cli -g
-
-#Faz as modificaçoes no gulpfile:
-
-- acrescentar gulp.series e gulp.parallel às tasks
+- Colors
+https://coolors.co/
