@@ -17,5 +17,6 @@ $theme-colors:(
 // Classes personalizadas
 $link-color: $my-color-4;
 
+
 // importa o Bootstrap
-@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/bootstrap";
